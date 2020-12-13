@@ -1,7 +1,5 @@
 # 13 ORM E-Commerce Backend
 
-===========================
-
 ## License Badge
 
 ![](https://img.shields.io/badge/license-MIT-blue)
@@ -59,3 +57,7 @@ Tested the GET, PUT, POST and DELETE routes numerous times
 ## _Questions_
 
 For any questions or for support, please contact me at: markshelgren@outlook.com or markshelgren on GitHub.
+
+Below is a print screen from the application testing.
+
+![Web Page](sample.png)
